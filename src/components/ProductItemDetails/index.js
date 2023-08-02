@@ -167,7 +167,7 @@ class ProductItemDetails extends Component {
                 onClick={this.onIncrementQuantity}
                 data-testid="plus"
               >
-                <BsDashSquare className="quantity-controller-icon" />
+                <BsPlusSquare className="quantity-controller-icon" />
               </button>
             </div>
             <button className="button- add-cart-to-btn" type="button">
